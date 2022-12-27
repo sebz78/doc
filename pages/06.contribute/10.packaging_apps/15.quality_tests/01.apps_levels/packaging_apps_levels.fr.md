@@ -10,6 +10,8 @@ routes:
 Afin de faciliter le packaging d'applications par des étapes successives à atteindre, chaque package est affublé d'un niveau de qualité, de 0 à 9.  
 Un package doit satisfaire un certain nombre de critères pour atteindre chaque niveau. De plus pour atteindre un niveau, le package doit avoir préalablement atteint le niveau précédent.
 
+Le niveau est stipulé dans la partie </>code ou document de l'application.
+
 Ce classement des applications par niveaux présente 3 avantages :
 - Le packaging d'application est d'autant plus ludique, avec des objectifs clairs à atteindre et des étapes successives.
 - Une application correctement packagée est davantage mise en avant qu'une application ne respectant pas les règles de packaging.
